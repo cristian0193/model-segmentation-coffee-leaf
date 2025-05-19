@@ -1,0 +1,10 @@
+path: ../model-classification-coffee-leaf/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Cercospora
+  1: Healthy
+  2: Miner
+  3: Phoma
+  4: Rust
