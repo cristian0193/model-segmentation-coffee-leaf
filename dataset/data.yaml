@@ -1,4 +1,4 @@
-path: ../model-classification-coffee-leaf/dataset
+path: ../model-segmentation-coffee-leaf/dataset
 train: images/train
 val: images/val
 test: images/test
